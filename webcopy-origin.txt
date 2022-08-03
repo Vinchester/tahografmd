@@ -1,0 +1,244 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: D:\tahograf.md\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: D:\tahograf.md\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: D:\tahograf.md\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\tahograf.md\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\tahograf.md\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\tahograf.md\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\tahograf.md\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\tahograf.md\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js
+File Name: D:\tahograf.md\ajax\libs\popper.js\1.16.0\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/13cb9483aa.js
+File Name: D:\tahograf.md\13cb9483aa.js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+File Name: D:\tahograf.md\bootstrap\4.5.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+File Name: D:\tahograf.md\bootstrap\4.5.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7188583604227224
+File Name: D:\tahograf.md\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://tahograf.md/
+File Name: D:\tahograf.md\index.htm
+Content Type: text/html
+
+Uri: https://tahograf.md/contacts.php
+File Name: D:\tahograf.md\contacts.php.html
+Content Type: text/html
+
+Uri: https://tahograf.md/img/AT2000STC.jpg
+File Name: D:\tahograf.md\img\AT2000STC.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/AT2000STCPNG.png
+File Name: D:\tahograf.md\img\AT2000STCPNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/barry_300.jpg
+File Name: D:\tahograf.md\img\barry_300.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/barry_300PNG.png
+File Name: D:\tahograf.md\img\barry_300PNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/barry_blue.jpg
+File Name: D:\tahograf.md\img\barry_blue.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/barry_bluePNG.png
+File Name: D:\tahograf.md\img\barry_bluePNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/barry_yellow.jpg
+File Name: D:\tahograf.md\img\barry_yellow.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/barry_yellowPNG.png
+File Name: D:\tahograf.md\img\barry_yellowPNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/D2.jpg
+File Name: D:\tahograf.md\img\D2.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/D2PNG.png
+File Name: D:\tahograf.md\img\D2PNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/EGK100.jpg
+File Name: D:\tahograf.md\img\EGK100.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/EGK100PNG.png
+File Name: D:\tahograf.md\img\EGK100PNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/header_tahograf.gif
+File Name: D:\tahograf.md\img\header_tahograf.gif
+Content Type: image/gif
+
+Uri: https://tahograf.md/img/kenwood.gif
+File Name: D:\tahograf.md\img\kenwood.gif
+Content Type: image/gif
+
+Uri: https://tahograf.md/img/logo_eberspaecher.gif
+File Name: D:\tahograf.md\img\logo_eberspaecher.gif
+Content Type: image/gif
+
+Uri: https://tahograf.md/img/logo_webasto.gif
+File Name: D:\tahograf.md\img\logo_webasto.gif
+Content Type: image/gif
+
+Uri: https://tahograf.md/img/planar.jpg
+File Name: D:\tahograf.md\img\planar.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/planarPNG.png
+File Name: D:\tahograf.md\img\planarPNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/SE5000NEW20.jpg
+File Name: D:\tahograf.md\img\SE5000NEW20.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/SE5000NEWPNG200.jpg
+File Name: D:\tahograf.md\img\SE5000NEWPNG200.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/stabo.jpg
+File Name: D:\tahograf.md\img\stabo.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/staboPNG.png
+File Name: D:\tahograf.md\img\staboPNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/Taho-logo.png
+File Name: D:\tahograf.md\img\Taho-logo.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/tahoplace.jpg
+File Name: D:\tahograf.md\img\tahoplace.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/teddy.jpg
+File Name: D:\tahograf.md\img\teddy.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/teddyPNG.png
+File Name: D:\tahograf.md\img\teddyPNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/VDO1314.jpg
+File Name: D:\tahograf.md\img\VDO1314.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/VDO1314PNG.png
+File Name: D:\tahograf.md\img\VDO1314PNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/VDO1318.jpg
+File Name: D:\tahograf.md\img\VDO1318.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/VDO1318PNG.png
+File Name: D:\tahograf.md\img\VDO1318PNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/VDO1324NEW20.jpg
+File Name: D:\tahograf.md\img\VDO1324NEW20.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/VDO1324NEWPNG.jpg
+File Name: D:\tahograf.md\img\VDO1324NEWPNG.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/VDO1381NEW.jpg
+File Name: D:\tahograf.md\img\VDO1381NEW.jpg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/VDO1381NEWPNG.png
+File Name: D:\tahograf.md\img\VDO1381NEWPNG.png
+Content Type: image/png
+
+Uri: https://tahograf.md/img/verificare.jpeg
+File Name: D:\tahograf.md\img\verificare.jpeg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/img/verificare_tahografe.jpeg
+File Name: D:\tahograf.md\img\verificare_tahografe.jpeg
+Content Type: image/jpeg
+
+Uri: https://tahograf.md/incalzitoare.php
+File Name: D:\tahograf.md\incalzitoare.php.html
+Content Type: text/html
+
+Uri: https://tahograf.md/includes/main.js
+File Name: D:\tahograf.md\includes\main.js
+Content Type: application/javascript
+
+Uri: https://tahograf.md/includes/popup.js
+File Name: D:\tahograf.md\includes\popup.js
+Content Type: application/javascript
+
+Uri: https://tahograf.md/index.php
+File Name: D:\tahograf.md\index.php.html
+Content Type: text/html
+
+Uri: https://tahograf.md/montarestatiiradio.php
+File Name: D:\tahograf.md\montarestatiiradio.php.html
+Content Type: text/html
+
+Uri: https://tahograf.md/reparareincalzitoare.php
+File Name: D:\tahograf.md\reparareincalzitoare.php.html
+Content Type: text/html
+
+Uri: https://tahograf.md/statiiradio.php
+File Name: D:\tahograf.md\statiiradio.php.html
+Content Type: text/html
+
+Uri: https://tahograf.md/style.css
+File Name: D:\tahograf.md\style.css
+Content Type: text/css
+
+Uri: https://tahograf.md/tahografe.php
+File Name: D:\tahograf.md\tahografe.php.html
+Content Type: text/html
+
+Uri: https://tahograf.md/verificareTahografe.php
+File Name: D:\tahograf.md\verificareTahografe.php.html
+Content Type: text/html
+
