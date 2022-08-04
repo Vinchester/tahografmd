@@ -2,10 +2,8 @@ let menuelement  = document.getElementById('eto');
 let spok = 0;
 function flash(){
   if(spok == 0){
-    menuelement.style.display = "block";
     spok = 1;
   }else{
-    menuelement.style.display = "none";
 	menuelement.innerHTML = "ETOLL";
     spok = 0;
   }

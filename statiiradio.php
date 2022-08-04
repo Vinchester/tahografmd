@@ -14,43 +14,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>  
-    <div class="container-fluid  p-2 redLineBottom">
-  <div class="row ">
-    <div class="col-sm-2 text-center">
-      <a href="index.php.html"><img src="img/Taho-logo.png" alt="Caterpilar logo" srcset=""></a>
-    </div>
-    <div class="col-sm-8 p-2">
-      <div class="vermenu" id="myTopnav">
-        <a href="index.php.html">HOME</a>
-        <div class="vipadmenu">
-          <button class="dropbtn">PRODUSE
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <div class="vipadmenu-content">
-            <a href="tahografe.php.html">TAHOGRAFE</a>
-            <a href="incalzitoare.php.html">INCALZITOARE</a>
-            <a href="statiiradio.php.html">STATII RADIO</a>
-          </div>
-        </div>
-        <div class="vipadmenu">
-          <button class="dropbtn">SERVICII
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <div class="vipadmenu-content">
-            <a href="verificareTahografe.php.html">Verificare tahografe</a>
-            <a href="reparareincalzitoare.php.html">Reparare incalzitoare</a>
-            <a href="montarestatiiradio.php.html">Montare statii radio</a>
-          </div>
-        </div>        
-        <a href="contacts.php.html">CONTACTE</a>
-		
-      </div>
-    </div>
-    <div class="col-sm-2 pt-3 text-center ">
-      <a style="font-size:20px" class="mycenter text-dark" href="tel:+37369113318">mob: 069113318</a>
-    </div>
-  </div>
-</div>
+<?php include 'header.php'?>
    
     <div style="width: 100%; height:auto;padding:10px; text-align:center">
     <script async="" src="pagead/js/f.txt?client=ca-pub-7188583604227224" crossorigin="anonymous"></script>
@@ -69,7 +33,7 @@
 			<div name="colu" class="col-sm-4 p-2">
                 <div name="cardgrid" class="card">
                     <div class="picture">
-                        <img id="img7" onmouseover="changephoto(this.id)" src="img/barry_yellow.jpg" alt="tahografe" width="300" height="200">
+                        <img id="img7" onclick="popupphoto(this.id)" onmouseover="changephoto(this.id)" src="img/barry_yellow.jpg" alt="tahografe" width="300" height="200">
                         <img id="img7S" onmouseout="changephotoback(this.id)" src="img/barry_yellowPNG.png" alt="tahografe" width="350" height="200">
                     </div>
                     <div class="tittle">
@@ -87,7 +51,7 @@
             <div name="colu" class="col-sm-4 p-2">
                 <div name="cardgrid" class="card">
                     <div class="picture">
-                        <img id="img8" onmouseover="changephoto(this.id)" src="img/barry_blue.jpg" alt="tahografe" width="300" height="200">
+                        <img id="img8" onclick="popupphoto(this.id)" onmouseover="changephoto(this.id)" src="img/barry_blue.jpg" alt="tahografe" width="300" height="200">
                         <img id="img8S" onmouseout="changephotoback(this.id)" src="img/barry_bluePNG.png" alt="tahografe" width="350" height="200">
                     </div>
                     <div class="tittle">
@@ -105,7 +69,7 @@
 			<div name="colu" class="col-sm-4 p-2">
                 <div name="cardgrid" class="card">
                     <div class="picture">
-                        <img id="img9" onmouseover="changephoto(this.id)" src="img/barry_300.jpg" alt="tahografe" width="300" height="200">
+                        <img id="img9" onclick="popupphoto(this.id)" onmouseover="changephoto(this.id)" src="img/barry_300.jpg" alt="tahografe" width="300" height="200">
                         <img id="img9S" onmouseout="changephotoback(this.id)" src="img/barry_300PNG.png" alt="tahografe" width="350" height="200">
                     </div>
                     <div class="tittle">
@@ -123,7 +87,7 @@
 			<div name="colu" class="col-sm-4 p-2">
             <div name="cardgrid" class="card">
                     <div class="picture">
-                        <img id="img10" onmouseover="changephoto(this.id)" src="img/stabo.jpg" alt="tahografe" width="350" height="200">
+                        <img id="img10" onclick="popupphoto(this.id)" onmouseover="changephoto(this.id)" src="img/stabo.jpg" alt="tahografe" width="350" height="200">
                         <img id="img10S" onmouseout="changephotoback(this.id)" src="img/staboPNG.png" alt="tahografe" width="350" height="200">
                     </div>
                     <div class="tittle">
@@ -141,7 +105,7 @@
 			<div name="colu" class="col-sm-4 p-2">
             <div name="cardgrid" class="card">
                     <div class="picture">
-                        <img id="img11" onmouseover="changephoto(this.id)" src="img/teddy.jpg" alt="tahografe" width="300" height="200">
+                        <img id="img11" onclick="popupphoto(this.id)" onmouseover="changephoto(this.id)" src="img/teddy.jpg" alt="tahografe" width="300" height="200">
                         <img id="img11S" onmouseout="changephotoback(this.id)" src="img/teddyPNG.png" alt="tahografe" width="300" height="200">
                     </div>
                     <div class="tittle">
@@ -159,7 +123,7 @@
 			<div name="colu" class="col-sm-4 p-2">
             <div name="cardgrid" class="card">
                     <div id="picture" class="picture">
-                        <img id="img12" onmouseover="changephoto(this.id)" src="img/stabo.jpg" alt="tahografe" width="350" height="200">
+                        <img id="img12" onclick="popupphoto(this.id)" onmouseover="changephoto(this.id)" src="img/stabo.jpg" alt="tahografe" width="350" height="200">
                         <img id="img12S" onmouseout="changephotoback(this.id)" src="img/staboPNG.png" alt="tahografe" width="350" height="200">
                     </div>
                     <div class="tittle">
@@ -195,56 +159,13 @@
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-</div>    <footer class="container-fluid">
-    <div class="row">
-        <div class="col-3 mycenter text-center">
-			<h1 style="color:white">Tahograf SRL</h1>
-        </div>
-        <div class="col-sm-3">
-            <p class="shadowText">MENU</p>
-            <ul class="bottomnav">
-                <li><a href="index.php.html">HOME</a></li>
-                <li class="drop"><a href="statii.php">Produsele noaster <i class="fa fa-caret-down"></i></a>
-                    <ul class="listdrop">
-                        <li><a href="tahografe.php.html">Tahografe</a></li>
-                        <li><a href="incalzitoare.php.html">Incalzitoare</a></li>
-                        <li><a href="statiiradio.php.html">Statii radio</a></li>
-                    </ul>
-                </li>
-                <li class="drop"><a href="statii.php">Servicii <i class="fa fa-caret-down"></i></a>
-                    <ul class="listdrop">
-                        <li><a href="verificareTahografe.php.html">Verificare tahografe</a></li>
-                        <li><a href="incalzitoare.php.html">Incalzitoare</a></li>
-                        <li><a href="statiiradio.php.html">Statii radio</a></li>
-                    </ul>
-                </li>
-                <li><a href="contacts.php.html">Contacte</a></li>
-            </ul>
-        </div>
-        <div class="col-sm-3">
-            <p class="shadowText">PROGRAM DE LUCRU</p>
-            <ul class="bottomnav">
-                <li> LUNI-VINERU 08:30 - 17:00</li>
-                <li> PAUZA DE MASA 12:30 - 13:00</li>
-                <li> SIMBARA 08:30 - 13:00</li>
-                <li> DUMINICA ZI LIBERA</li>
-            </ul>
-        </div>
-        <div class="col-sm-3">
-            <p class="shadowText">CONTACTE</p>
-            <ul class="bottomnav">
-                <li><a href="tel:+37369113318">mob: 069 113318</a></li>
-                <li>e-mail: office@caterpilar.md</li>
-                <li>adresa: str. Padurii 26/1, mun.Chisinau</li>
-            </ul>
-        </div>
-    </div>
-</footer>
+</div>    <?php include 'footer.php'?>
 <div class="container-fluid  text-center text-light " style="border-top:1px solid white; padding:10px; background-color:#333">
     &#169 CUBIT 2022</div>    
     <script src="includes/grid.js"></script>
     <script src="includes/main.js"></script>
-    <script src="includes/popup.js"></script>
+    <?php include 'popup.php'?>
+    <script src="popup.js"></script>
 </body>
 
 </html>
